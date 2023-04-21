@@ -11,7 +11,7 @@
  
    * To run the ros node, Download the package from the below command:
  
-      git clone https://github.com/darshit-desai/Drone-following-an-April-tag-marker
+       git clone https://github.com/darshit-desai/Drone-following-an-April-tag-marker
       
   * After this copy and paste the package in your catkin workspace inside the ros-melodic docker on the onboard computer of the voxl m500 drone  
 
