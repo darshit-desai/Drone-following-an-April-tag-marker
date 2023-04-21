@@ -4,8 +4,9 @@
  ## Flight test video
  
  The following video shows the drone being tested with an April tag marker. The april tag marker is slowly pulled and the drone using it's downward facing tracking camera captures the April tag and calculates it's pose in the body frame of the camera. This pose is subsequently rotated and converted from camera to the drone frame and from drone frame to the local inertial frame for the tracking of April tag.
- 
- 
+
+https://user-images.githubusercontent.com/36150235/233714010-ac2abc61-8709-4a62-ab14-3d9c5cb1de47.mp4
+
  
  ## Code run instructions (Note for the following steps to work a linux docker with ros-melodic and opencv1.2 installed on it should be present on board the drone's computer)
  
